@@ -1,0 +1,5 @@
+4
+40 40 C 30299508 Shmuel uzan Malzar Ber ilan 55 # 54659 0.00
+302 302 C 55690 Ali Malca Mlzar Bar ialn 55 # 55659232 5.24
+22 22 C 22531 Shmon malca Malzar sa sae 55 # 5696605 22351.05
+30 30 A 302995089 Shmuel uzan Manger Bar ilan 55 # 546596607 2.00

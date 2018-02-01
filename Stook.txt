@@ -1,0 +1,11 @@
+10
+5 Glida # 1 10 30
+7 Sokolad # 12 1 30
+8 Naknikia # 25 2 30
+4 Amborger # 45 20 45
+2 Bamba # 50 10 70
+6 Fanta # 80 90 105
+3 Bisli # 90 20 90
+1 Cola # 99 30 105
+10 Chips # 150 10 140
+9 Tortia # 250 12 300

@@ -1,0 +1,11 @@
+10
+1 Cola Ba # 6.90
+2 Bamba # 5.90
+3 Bisli # 5.90
+4 Amborger # 32.90
+5 Glida # 9.90
+6 Fanta # 6.90
+7 Sokolad # 8.90
+8 Naknikia # 5.90
+9 Tortia # 5.90
+10 Chips # 5.90
